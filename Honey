@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Amber Hive - Pure, natural honey from Kairouan, Tunisia. Order now at 99033928 for 40 TND/kg." />
+  <title>Amber Hive</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff8dc;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #ffcc00;
+      padding: 1em;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    section {
+      padding: 2em;
+      text-align: center;
+    }
+    .price {
+      font-size: 1.5em;
+      color: #b8860b;
+    }
+    .product-image {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      margin-top: 1em;
+    }
+    footer {
+      background: #ffcc00;
+      padding: 1em;
+      text-align: center;
+    }
+    .contact {
+      margin-top: 1em;
+      font-weight: bold;
+    }
+    .cta {
+      margin-top: 1.5em;
+      font-size: 1.2em;
+    }
+    .cta a {
+      color: #b8860b;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Amber Hive</h1>
+    <p>Pure Honey from Kairouan</p>
+  </header>
+  <section>
+    <h2>Our Product</h2>
+    <p>We sell high-quality natural honey harvested with care.</p>
+    <p class="price">40 TND / kg</p>
+    <img src="https://via.placeholder.com/400x300?text=Amber+Hive+Honey" alt="Jar of Amber Hive natural honey" class="product-image" />
+    <div class="cta">
+      <p><a href="tel:99033928">Call Now to Order</a></p>
+    </div>
+  </section>
+  <footer>
+    <p>Contact us to order:</p>
+    <div class="contact">Phone: 99033928</div>
+    <p>Kairouan, Tunisia</p>
+  </footer>
+</body>
+</html>
